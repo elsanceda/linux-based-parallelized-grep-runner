@@ -1,1 +1,1 @@
-# linux-based-parallelized-grep-runner
+# Linux-based parallelized grep runner
