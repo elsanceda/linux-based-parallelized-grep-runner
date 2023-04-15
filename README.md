@@ -5,9 +5,9 @@ Comes with a multi-threaded and single-threaded version:
  
  <code>multithreaded.c</code>
  - The main multi-threaded version of the program
- - Performs grep with 1-8 different "workers"
+ - Performs grep on a directory tree with 1-8 different "workers"
  - Number of "workers" deployed is specified by the user
  
  <code>single.c</code>
  - A single-threaded version of the program
- - Performs grep with only 1 "worker"
+ - Performs grep on a directory tree with only 1 "worker"
